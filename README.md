@@ -1,5 +1,5 @@
 ## Soviet Glass
-Soviet theme with blur
+Soviet theme with blur (On screenshots version is 0.0.1)
 
 - - -
 Download: [https://github.com/VantuzFed/SovietGlass/releases/tag/0.0.2](https://github.com/VantuzFed/SovietGlass/releases/tag/0.0.2)  
