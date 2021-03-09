@@ -1,20 +1,19 @@
-## Frosted Glass
-Display your picture of choice with adjustable blur and brightness. Dark theme is required.
+## Soviet Glass
+Soviet theme with blur
 
 - - -
-BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3359](https://betterdiscord.net/ghdl?id=3359)  
-Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`
+Download: [https://github.com/VantuzFed/SovietGlass/releases/tag/0.0.2](https://github.com/VantuzFed/SovietGlass/releases/tag/0.0.2)  
 - - -
 
 Server chat + User popout
-![Server Chat](https://i.imgur.com/Gr8JJAv.jpg)
+![Server Chat](https://i.imgur.com/dR4fQZc.png)
 
 User modal
-![User Modal](https://i.imgur.com/xnUQ1Ek.jpg)
+![User Modal](https://i.imgur.com/r7RYEE0.png)
 
 User Settings
-![User Settings](https://i.imgur.com/qfMW8HI.jpg)
+![Server Boost Settings](https://i.imgur.com/2mT8cHK.png)
 
 ## License
 
-See the [LICENSE](https://github.com/DiscordStyles/FrostedGlass/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/VantuzFed/SovietGlass/blob/master/LICENSE.md) file for license rights and limitations (MIT).
